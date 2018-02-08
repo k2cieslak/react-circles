@@ -1,4 +1,4 @@
-<a href="https://codeclimate.com/github/k2cieslak/react-circles/maintainability"><img src="https://api.codeclimate.com/v1/badges/92e07c40a6c4af0fbaa3/maintainability" /></a>
+[![Maintainability](https://api.codeclimate.com/v1/badges/92e07c40a6c4af0fbaa3/maintainability)](https://codeclimate.com/github/k2cieslak/react-circles/maintainability)
 
 # About task
 Create web application which will allow user to create up to 5 circles with given size and position on the screen.
